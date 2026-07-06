@@ -5,7 +5,7 @@ Cómo ejecutar el proyecto
 Para ejecutar el código, tienes dos opciones principales:
 
 Opción 1: Google Colab 
-Haz clic en el siguiente enlace para abrir el cuaderno directamente en Google Colab:
+Haz clic en el siguiente enlace https://colab.research.google.com/drive/1aUNHc8krq_DT08biFb3dZhtqV6QPMnSS?usp=sharing para abrir el cuaderno directamente en Google Colab:
 Abrir en Google Colab.
 
 Una vez en Colab, ve al menú Entorno de ejecución > Ejecutar todas.
