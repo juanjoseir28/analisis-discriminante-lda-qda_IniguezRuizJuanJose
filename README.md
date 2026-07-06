@@ -4,22 +4,13 @@ Este proyecto tiene como objetivo explorar y comparar el desempeño de dos model
 Cómo ejecutar el proyecto
 Para ejecutar el código, tienes dos opciones principales:
 
-Opción 1: Google Colab (Recomendado)
+Opción 1: Google Colab 
 Haz clic en el siguiente enlace para abrir el cuaderno directamente en Google Colab:
-Abrir en Google Colab (Nota: Sustituye JUANJOSEINIGUEZ por tu nombre de usuario de GitHub si es diferente).
+Abrir en Google Colab.
 
 Una vez en Colab, ve al menú Entorno de ejecución > Ejecutar todas.
 
 El dataset se cargará automáticamente desde la librería scikit-learn, por lo que no necesitas descargar archivos adicionales.
-
-Opción 2: Localmente (Jupyter Notebook)
-Clona este repositorio en tu computadora:
-git clone [[https://github.com/JUANJOSEINIGUEZ/analisis-discriminante-lda-qda_IniguezRuizJuanJose.git](https://github.com/JUANJOSEINIGUEZ/analisis-discriminante-lda-qda_IniguezRuizJuanJose.git)](https://colab.research.google.com/drive/1aUNHc8krq_DT08biFb3dZhtqV6QPMnSS#scrollTo=fQVTxJ0v5a4p)
-
-Instala las dependencias necesarias:
-pip install -r requirements.txt
-
-Abre el archivo .ipynb utilizando Jupyter Notebook o VS Code.
 
 Principales hallazgos
 Tras la implementación y comparación de los modelos en el cuaderno, se obtuvieron las siguientes conclusiones:
